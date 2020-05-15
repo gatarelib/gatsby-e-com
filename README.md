@@ -12,7 +12,7 @@ Out of the box, the site uses completely static data coming from a provider at `
 
 ### Getting started
 
-1. Clone the project
+1. Clone the project https://github.com/gatarelib/gatsby-e-com
 
 ```sh
 $ git clone soon posting the link

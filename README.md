@@ -1,7 +1,6 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/871aae5f-a469-46dd-96e7-4eaa9bf2ff7f/deploy-status)](https://app.netlify.com/sites/aclis-e-comm/deploys)
 ## Aclis E Commerce Professional
 
-> This is a template for the upcoming  [Aclis ECommerce](https://aclis-e-comm.netlify.app/).
+> This is a fork of [Aclis ECommerce](https://aclis.africa) for the YC blog.
 
 
 Out of the box, the site uses completely static data coming from a provider at `providers/inventoryProvider.js`. You can update this provider to fetch data from any real API by changing the call in the `getInventory` function.
@@ -13,8 +12,9 @@ Out of the box, the site uses completely static data coming from a provider at `
 ### Getting started
 
 1. Clone the project
+
 ```sh
-$ git clone https://github.com/gatarelib/gatsby-e-com
+$ git clone soon posting the link
 ```
 
 2. Install the dependencies:

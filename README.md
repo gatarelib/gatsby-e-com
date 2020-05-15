@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/871aae5f-a469-46dd-96e7-4eaa9bf2ff7f/deploy-status)](https://app.netlify.com/sites/aclis-e-comm/deploys)
 ## Aclis E Commerce Professional
 
 > This is a template for the upcoming  [Aclis ECommerce](https://aclis-e-comm.netlify.app/).

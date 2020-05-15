@@ -1,6 +1,6 @@
 ## Aclis E Commerce Professional
 
-> This is a template for the upcoming  [Aclis ECommerce](https://aclis.africa).
+> This is a template for the upcoming  [Aclis ECommerce](https://e-commerce-aclis.web.app/).
 
 
 Out of the box, the site uses completely static data coming from a provider at `providers/inventoryProvider.js`. You can update this provider to fetch data from any real API by changing the call in the `getInventory` function.

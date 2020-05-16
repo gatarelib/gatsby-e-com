@@ -14,7 +14,7 @@ Out of the box, the site uses completely static data coming from a provider at `
 1. Clone the project
 
 ```sh
-$ git clone soon posting the link
+$ git clone https://github.com/gatarelib/gatsby-e-com
 ```
 
 2. Install the dependencies:

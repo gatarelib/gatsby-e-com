@@ -3,11 +3,11 @@
 > This is a repo of [Aclis ECommerce](https://aclis.africa).
 
 
-Out of the box, the site uses completely static data coming from a provider at `providers/inventoryProvider.js`. You can update this provider to fetch data from any real API by changing the call in the `getInventory` function.
+This site uses completely static data coming from a provider at `providers/inventoryProvider.js`. You can update this provider to fetch data from any real API by changing the call in the `getInventory` function.
 
 ![](design.jpg)
 
-> This project is still in Beta.
+> This project is still WIP.
 
 ### Getting started
 

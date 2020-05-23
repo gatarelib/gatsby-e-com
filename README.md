@@ -66,6 +66,6 @@ Update __providers/inventoryProvider.js__ with your own inventory provider.
 If you're using dynamic images over http, you can add a build step into `exports.createPages` in __gatsby-node.esm.js__ to download the images locally to improve the user experience. You can also add a placeholder image in __src/components/Image.js__ or make some adjustments in that component for other image loading enhancements.   
 
 #### Server-side processing of payments
-To see an example of how to process payments server-side with stripe, check out the Lambda function in the snippets folder.
+To see an example of how to process payments server-side with stripe, check out  [Lambda function in the snippets folder](https://github.com/gatarelib/gatsby-e-com/blob/master/snippets/lambda.js).
 
 Also, consider verifying totals by passing in an array of IDs into the function, calculating the total on the server, then comparing the totals to check and make sure they match.

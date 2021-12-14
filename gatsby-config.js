@@ -26,8 +26,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `photos`,
-        path: `${__dirname}/src/photos`,
+        name: `images`,
+        path: `${__dirname}/src/images`,
       },
     },
     `gatsby-plugin-offline`,
